@@ -7,7 +7,7 @@ I'm a final year student at <strong>London Metropolitan University</strong> .
 
 > 🍔 [Menu](https://ourmenu.netlify.app/) - this menu was built using react js. it was my first time using react js. 
 
-> 🧮 [Calculator](https://anascnm.github.io/calculator/) - a live calculator built using html5, css and javascript. keyboard and click input supported. 
+> 🧮 [Digital Clock](https://anascnm.github.io/digital-clock/) - a live calculator built using html5, css and javascript. keyboard and click input supported. 
 
 
 ## 📫 How to reach me
